@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+instantfxoptiontrade.com	TRUE	/	FALSE	1999999999	PHPSESSID	8f79a199bc2a89fccc02ca7543a80c82
+.coingecko.com	TRUE	/	FALSE	1999999999	__cf_bm	SHOBzCVmxYiIjsRCUSmXlixo7NY8VJ8undXwGZt3fPs-1681708785-0-AW1QYBUl1A6UTk03xHtmUiWyJCWU+/oScEWG6Oby0cWEToP3UtyExxAmXEnc9hHFSdauHrOTDf2bLkiGflRsXMs=
+widgets.coingecko.com	TRUE	/	FALSE	1999999999	SameSite	None
+

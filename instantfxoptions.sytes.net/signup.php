@@ -1,5 +1,4 @@
 
-<!-- saved from url=(0126)file:///C:/Users/ochuko/Documents/GitHub/instantfxoptionstrade/instantfxoptionstr/instantfxoptions.sytes.net/customer.php.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <link href="./signup2_files/css" rel="stylesheet">

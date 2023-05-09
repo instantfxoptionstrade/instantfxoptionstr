@@ -2,5 +2,5 @@
 # This file format is compatible with Netscape cookies
 instantfxoptiontrade.com	TRUE	/	FALSE	1999999999	PHPSESSID	8f79a199bc2a89fccc02ca7543a80c82
 widgets.coingecko.com	TRUE	/	FALSE	1999999999	SameSite	None
-.coingecko.com	TRUE	/	FALSE	1999999999	__cf_bm	S03E_hym9oM.XdITGwt4SRYlfOFPAQ8HvJceSzn.e4w-1681711233-0-AUONhJGB6i2q6PbvXbCPIy2K7SsNGIQ5Eur8Iis1QfIUzXMjzSxMdEAmBBfWCRK/p4RZ5+jNpzkE+S1a22Gea5k=
+.coingecko.com	TRUE	/	FALSE	1999999999	__cf_bm	ePhiavyXUvJ1ODdkQRD.UaOS.LPuW_V1Ehp9U5RGyMI-1683597525-0-AeiD3RiZFK8ll0xGVJFLMtSRXzUqjbgFMJYasbRKSA50MAJSeu2vtnfvyKBNhZh8G1rB5scb9Vc02g1weJENfhA=
 

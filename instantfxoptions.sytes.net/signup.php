@@ -233,9 +233,9 @@ $(document).ready(function() {
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+1(901)283-2236", 
+            whatsapp: "+1(385)367-4112", 
             text: "Hello, how may we help you? Just send us a message now to get assistance.",
-            abid:"+1(901)283-2236",// WhatsApp number
+            abid:"+1(385)367-4112",// WhatsApp number
            
             call_to_action: "Message us", // Call to action
             position: "left", // Position may be 'right' or 'left'

@@ -1,15 +1,15 @@
-HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Apr 2023 00:59:44 at https://instantfxoptions.sytes.net/dashboard/customer.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://instantfxoptions.sytes.net/dashboard/customer.php -O1 "C:\Users\ochuko\Documents\GitHub\instantfxoptionstrade\instantfxoptionstr" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Apr 2023 00:59:44 at https://instantfxoptions.sytes.net/dashboard/customer.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://instantfxoptions.sytes.net/dashboard/customer.html -O1 "C:\Users\ochuko\Documents\GitHub\instantfxoptionstrade\instantfxoptionstr" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-01:00:10	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/data/design/cryptonode/images/favicon.png (from https://instantfxoptions.sytes.net/register.php)
-01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/signup.html (from https://instantfxoptions.sytes.net/register.php)
-01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/register.html (from https://instantfxoptions.sytes.net/register.php)
-01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/index38cd.html?a=faq (from https://instantfxoptions.sytes.net/register.php)
+01:00:10	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/data/design/cryptonode/images/favicon.png (from https://instantfxoptions.sytes.net/register.html)
+01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/signup.html (from https://instantfxoptions.sytes.net/register.html)
+01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/register.html (from https://instantfxoptions.sytes.net/register.html)
+01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/index38cd.html?a=faq (from https://instantfxoptions.sytes.net/register.html)
 01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/data/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot_v%3d4.7.html (from https://instantfxoptions.sytes.net/data/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css)
 01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/data/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.html (from https://instantfxoptions.sytes.net/data/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css)
 01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/data/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2_v%3d4.7.html (from https://instantfxoptions.sytes.net/data/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css)
@@ -79,12 +79,12 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/data/plugins/js_composer/assets/vc/remove.png (from https://instantfxoptions.sytes.net/data/plugins/js_composer/assets/css/js_composer.min.css)
 01:00:44	Warning: 	Moved Permanently for code.tidio.co/v0th9936o09hdauo5rlrfhlusagnlale.js
 01:00:44	Warning: 	Warning moved treated for code.tidio.co/v0th9936o09hdauo5rlrfhlusagnlale.js (real one is https://code.tidio.co:443/v0th9936o09hdauo5rlrfhlusagnlale.js)
-01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/index-2.html (from https://instantfxoptions.sytes.net/about.php)
-01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/data/design/cryptonode/images/about2.jpg (from https://instantfxoptions.sytes.net/about.php)
-01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/POST.html (from https://instantfxoptions.sytes.net/about.php)
-01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/index3898.html?a=cust&page=about (from https://instantfxoptions.sytes.net/about.php)
-01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/indexa972.html?a=rules (from https://instantfxoptions.sytes.net/rules.php)
-01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/index15a0.html?a=support (from https://instantfxoptions.sytes.net/contact.php)
+01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/index-2.html (from https://instantfxoptions.sytes.net/about.html)
+01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/data/design/cryptonode/images/about2.jpg (from https://instantfxoptions.sytes.net/about.html)
+01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/POST.html (from https://instantfxoptions.sytes.net/about.html)
+01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/index3898.html?a=cust&page=about (from https://instantfxoptions.sytes.net/about.html)
+01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/indexa972.html?a=rules (from https://instantfxoptions.sytes.net/rules.html)
+01:00:44	Error: 	"Not Found" (404) at link https://instantfxoptions.sytes.net/index15a0.html?a=support (from https://instantfxoptions.sytes.net/contact.html)
 01:00:44	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/v0th9936o09hdauo5rlrfhlusagnlale.js (from https://instantfxoptions.sytes.net/index.html)
 01:00:45	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/v0th9936o09hdauo5rlrfhlusagnlale.js (from https://instantfxoptions.sytes.net/index.html)
 01:00:45	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/v0th9936o09hdauo5rlrfhlusagnlale.js (from https://instantfxoptions.sytes.net/index.html)

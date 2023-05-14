@@ -197,7 +197,7 @@ $(document).ready(function() {
       {
         returnString = "";
         
-        $.post( "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC,LTC,ETH,BCH,XRP&tsyms=USD", function( data )
+        $.get( "https://min-api.cryptocompare.com/data/pricemulti?fsyms=BTC,LTC,ETH,BCH,XRP&tsyms=USD", function( data )
         {
           $('#price_btc').text('$'+data['BTC']['USD']);
           $('#price_ltc').text('$'+data['LTC']['USD']);
